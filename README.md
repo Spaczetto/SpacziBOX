@@ -5,7 +5,7 @@ Mój konfigurator post-install do Windowsa 10/11 stworzony w batchu
 ---
 
 <p align="center">
-  <img src="LINK_DO_TWOJEGO_ZDJECIA_Z_IMGUR" alt="SpacziBOX Menu" width="700">
+  <img src="https://imgur.com/a/4j54nsj" alt="SpacziBOX Menu" width="700">
 </p>
 
 ---
