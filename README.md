@@ -4,12 +4,6 @@ Mój konfigurator post-install do Windowsa 10/11 stworzony w batchu
 
 ---
 
-<p align="center">
-  <img src="https://imgur.com/a/4j54nsj" alt="SpacziBOX Menu" width="700">
-</p>
-
----
-
 ## Co posiada
 
 * **ChrisTitus WinUtil:** Uruchamia napisany skrypt stworzonego przez ChrisTitusTech
