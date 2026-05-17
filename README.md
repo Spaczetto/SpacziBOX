@@ -25,7 +25,7 @@ Mój konfigurator post-install do Windowsa 10/11 stworzony w batchu
 
 Bardzo prosto
 
-1. Pobierz plik `SpacziBOX.cmd` z repozytoria
+1. Pobierz plik `SpacziBOX.cmd` z repozytoria albo ze zakładki **Release**
 2. Kliknij na plik prawym przyciskiem myszy i wybierz **"Uruchom jako administrator"**.
 3. Postępuj zgodnie z instrukcjami wyświetlanymi na ekranie.
 
